@@ -4,8 +4,12 @@ Before class do the following.
 
 1. Install SBT 0.13.8
 
-2. Install a Git client (if you don't already have one).
+   http://www.scala-sbt.org/
+
+2. Install a Git client (if you don't already have one)
+
+   https://git-scm.com/downloads
 
 3. Clone this repo
 
-       git clone
+       git clone https://github.com/nestorpersist/Galvanize1.git
