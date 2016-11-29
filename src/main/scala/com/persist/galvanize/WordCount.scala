@@ -82,7 +82,6 @@ object Example {
   }
 }
 object WordCount extends App {
-   println("foo")
   Example.countWords()
 
 }
